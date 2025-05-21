@@ -52,48 +52,52 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 📊 Features
-      Data Cleaning & Profiling
-      
-      Detect and impute missing values (median)
-      
-      Identify and remove outliers using Z-score
-      
-      Exploratory Data Analysis
-      
-      Correlation heatmaps
-      
-      Time series plots
-      
-      Scatter and bubble charts
-      
-      Country Comparison
-      
-      Boxplots of GHI, DNI, and DHI
-      
-      Kruskal–Wallis test for statistical comparison
-      
-      Insightful markdown summaries
-      
-      Interactive Streamlit Dashboard
-      
-      Country-based filtering
-      
-      Plot toggles
-      
-      Clean UI for non-technical users
 
-    📈 Sample Visualizations
-    GHI Boxplot by Country	Time Series Plot (GHI)
+---
+Data Cleaning & Profiling
 
+Detect and impute missing values (median)
 
+Identify and remove outliers using Z-score
+
+Exploratory Data Analysis
+
+Correlation heatmaps
+
+Time series plots
+
+Scatter and bubble charts
+
+Country Comparison
+
+Boxplots of GHI, DNI, and DHI
+
+Kruskal–Wallis test for statistical comparison
+
+Insightful markdown summaries
+
+Interactive Streamlit Dashboard
+
+Country-based filtering
+
+Plot toggles
+
+Clean UI for non-technical users
+
+📈 Sample Visualizations
+GHI Boxplot by Country	Time Series Plot (GHI)
+
+---
 📌 Future Improvements
-    Add post-hoc statistical testing (e.g., Dunn's test)
-    
-    Improve input validation and exception handling in the dashboard
-    
-    Add map-based visualizations of solar metrics
-    
-    Unit tests for modular code components
+----
+Add post-hoc statistical testing (e.g., Dunn's test)
+
+Improve input validation and exception handling in the dashboard
+
+Add map-based visualizations of solar metrics
+
+Unit tests for modular code components
+---
 
 🪪 License
 This project is licensed under the MIT License.
